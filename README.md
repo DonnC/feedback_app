@@ -1,5 +1,7 @@
 # feedback_app
 
+Article available on Medium [https://donnclab.medium.com/flutter-ifttt-send-email-to-gmail-3fffd5fb1457](https://donnclab.medium.com/flutter-ifttt-send-email-to-gmail-3fffd5fb1457)
+
 A new Flutter project.
 
 ## Getting Started
